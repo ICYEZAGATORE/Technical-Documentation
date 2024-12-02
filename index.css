@@ -1,14 +1,8 @@
-nav {
-    display:flex;
-    flex-direction: column;
-    color: black;
-}
-#content-container  {
-    display: flex;
-    flex-direction: column;
-}
 body {
     display: flex;
-    flex-direction: column;
 }
+
+#navigationbar{
+    display: flex;
+    flex-direction: column;
 }
